@@ -2,7 +2,7 @@
 
 ### О себе
 
-Изучаю тестирование с августа 2022 года по направлению разработчик - тестировщик. Изучил основы тестирования и буду далее развиваться в этом напрвлении. Выбрал тестирование ПО, так-как люблю качество. Качество делает мир лучше!
+Изучаю тестирование с августа 2022 года по направлению разработчик - тестировщик. Изучил основы тестирования и буду далее развиваться в этом напрвлении. В рамках обучения также изучал основы следующих языков программирования: C#, Python, Java. Выбрал тестирование ПО, так-как люблю качество. Качество делает мир лучше!
 
 ### Навыки и инструменты  
 
@@ -49,7 +49,7 @@ https://docs.google.com/spreadsheets/d/1BkruRjTlERRu_zq9In9tcus9qjY0UQbWUxXGyK9f
 
 8. Тест-кейсы  
 Сайт: https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html   
-    Требования: нажать на сайте сверху - "Документация"
+    Требования: нажать на сайте сверху - "Документация"  
     Прохождение тест-кейсов и написание тест-кейсов блока "Наш Блог"
 
 - https://docs.google.com/spreadsheets/d/1uaW1vxbJY64JgbdPux4DBjRMpT5tthelSYsiQcdZS0w/edit#gid=1293095956; 
@@ -63,6 +63,10 @@ https://docs.google.com/spreadsheets/d/1BkruRjTlERRu_zq9In9tcus9qjY0UQbWUxXGyK9f
 
 
 Ссылки на соц. сети
+
+![QR](picture/qr_tmp.jpeg)
+
+Статистика GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimonchik39&show_icons=true&theme=transparent)
 
