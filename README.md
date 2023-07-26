@@ -62,11 +62,11 @@ https://docs.google.com/spreadsheets/d/1BkruRjTlERRu_zq9In9tcus9qjY0UQbWUxXGyK9f
 - https://docs.google.com/spreadsheets/d/1qMae48H3kw6wr9be7UxUcETdws96lCBtQWtn1_BzVxA/edit?usp=sharing
 
 
-Ссылки на соц. сети
+### Социальные сети
 
 ![QR](picture/qr_tmp.jpeg)
 
-Статистика GitHub
+### Статистика GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimonchik39&show_icons=true&theme=transparent)
 
